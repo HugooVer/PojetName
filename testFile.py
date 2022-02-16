@@ -6,3 +6,5 @@ for hello in hellos:
 
 for i in range (10):
     print (((9-i)//2)*' ', i*'°')
+    
+#Hugo
